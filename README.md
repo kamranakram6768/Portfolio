@@ -1,5 +1,5 @@
 # Portfolio
-Here’s a GitHub portfolio design based on your CV data:
+
 
 ---
 
